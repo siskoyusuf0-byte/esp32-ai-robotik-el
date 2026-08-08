@@ -6,6 +6,8 @@ Bu proje, bilgisayar kamerası üzerinden alınan el hareketlerini görüntü i�
 
 <img width="476" height="848" alt="el_taklit_deneme-ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/4d895cf5-ecc9-4821-a860-524a68f6d5a8" />
 
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/e8185d78-3800-4ec0-83aa-72919b9b37aa" />
+<img width="1080" height="1920" alt="image" src="https://github.com/user-attachments/assets/c854bced-1dff-4c76-9b6c-b1c7b7bf36bd" />
 
 
 ## Temel Özellikler
