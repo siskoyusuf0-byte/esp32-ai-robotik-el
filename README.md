@@ -11,7 +11,7 @@ Bu proje, bilgisayar kamerası üzerinden alınan el hareketlerini görüntü i�
 ## Temel Özellikler
 
 - **Oto-Kalibrasyon Altyapısı:** Kullanıcının el anatomisini ve kameraya olan mesafesini başlangıç aşamasında analiz ederek, minimum ve maksimum servo açı sınırlarını dinamik olarak belirler.
-- **Titreşim Önleyici Filtre (EMA):** Görüntüdeki anlık ışık değişimlerini ve istemsiz el titremelerini matematiksel yumuşatma (Exponential Moving Average) algoritmalarıyla sönümler.
+- **Titreşim Önleyici Filtre:** Görüntüdeki anlık ışık değişimlerini ve istemsiz el titremelerini matematiksel yumuşatma (Exponential Moving Average) algoritmalarıyla sönümler.
 - **3 Boyutlu Eklem Takibi:** Parmak bükülme oranını hesaplarken derinlik ($z$ ekseni) verilerini de sürece dahil ederek, üç boyutlu uzayda hassas konumlandırma sağlar.
 
 ## Kurulum ve Çalıştırma Adımları
