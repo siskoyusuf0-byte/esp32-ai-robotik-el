@@ -4,7 +4,9 @@ Bu proje, bilgisayar kamerası üzerinden alınan el hareketlerini görüntü i�
 
 ## Sistem Önizlemesi
 
-![Robotik El Takibi](demo.gif)
+<img width="476" height="848" alt="el_taklit_deneme-ezgif com-video-to-gif-converter (1)" src="https://github.com/user-attachments/assets/4d895cf5-ecc9-4821-a860-524a68f6d5a8" />
+
+
 
 ## Temel Özellikler
 
