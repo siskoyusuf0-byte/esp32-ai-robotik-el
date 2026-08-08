@@ -14,6 +14,15 @@ Bu proje, bilgisayar kamerası üzerinden alınan el hareketlerini görüntü i�
 - **Titreşim Önleyici Filtre:** Görüntüdeki anlık ışık değişimlerini ve istemsiz el titremelerini matematiksel yumuşatma algoritmalarıyla sönümler.
 - **3 Boyutlu Eklem Takibi:** Parmak bükülme oranını hesaplarken derinlik ($z$ ekseni) verilerini de sürece dahil ederek, üç boyutlu uzayda hassas konumlandırma sağlar.
 
+  ## Kullanım Alanları ve Projenin Vizyonu
+
+Bu proje, pahalı sensörlü eldivenlere veya karmaşık donanımlara ihtiyaç duymadan insan-makine etkileşimini sağlaması açısından stratejik bir öneme sahiptir. Projenin temelini oluşturduğu ve yol gösterici olduğu potansiyel uygulama alanları şunlardır:
+
+- **Tehlikeli Ortam Operasyonları:** Radyoaktif bölgeler, kimyasal sızıntı alanları, arama-kurtarma veya bomba imha gibi insan hayatı için yüksek risk taşıyan ortamlarda, robotik kolların güvenli bir mesafeden insan hassasiyetiyle kontrol edilmesi.
+- **Biyomedikal ve Akıllı Protez Geliştirme:** Kamera verisi ve yapay zeka aracılığıyla kontrol edilebilen, düşük maliyetli ve fiziksel sensör kısıtlaması olmayan erişilebilir biyonik protezlerin üretimine altyapı sağlaması.
+- **Endüstri 4.0 ve İnsan-Makine Etkileşimi:** Akıllı fabrikalardaki otomasyon sistemlerinin ve işbirlikçi robotların, karmaşık kontrol panelleri yerine doğrudan operatörün el hareketleri ve jestleriyle sezgisel olarak yönetilmesi.
+- **Akademik Araştırma ve Eğitim:** Bilgisayarlı görü, kinematik modelleme ve gömülü sistemler disiplinlerini bir araya getiren bu sistem, robotik alanında araştırma yapmak isteyen geliştiriciler için açık kaynaklı bir referans modelidir.
+
   ## Kullanılan Donanımlar
 
 - ESP32 Geliştirme Kartı
