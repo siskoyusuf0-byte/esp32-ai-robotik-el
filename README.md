@@ -21,12 +21,12 @@ Bu proje, bilgisayar kamerası üzerinden alınan el hareketlerini görüntü i�
 - 3D Yazıcı ile Üretilmiş / Hazır Mekanik Parmak Parçaları
 - Jumper Kablolar ve Güç Kaynağı
 
-## Mevcut Kısıtlamalar ve Geliştirme Yol Haritası (Roadmap)
+## Mevcut Kısıtlamalar ve Geliştirme Yol Haritası 
 
-Proje altyapısı tam bir robotik eli (5 parmak) kontrol edecek şekilde tasarlanmış olsa da, mevcut donanım ve parça eksiklikleri sebebiyle prototip aşamasında **tek servo motor ve tek parmak (işaret parmağı)** kullanılarak test edilmiştir. 
+Proje altyapısı tam bir robotik eli kontrol edecek şekilde tasarlanmış olsa da, mevcut donanım ve parça eksiklikleri sebebiyle prototip aşamasında **tek servo motor ve tek parmak** kullanılarak test edilmiştir. 
 
 Gelecek güncellemelerde projeye eklenmesi planlanan özellikler şunlardır:
-- **5 Parmak Entegrasyonu:** Gerekli donanım sağlandığında diğer parmakların da (başparmak, orta, yüzük, serçe) sisteme dahil edilmesi.
+- **5 Parmak Entegrasyonu:** Gerekli donanım sağlandığında diğer parmakların da sisteme dahil edilmesi.
 - **Kablosuz İletişim (Bluetooth/Wi-Fi):** USB Serial haberleşmesinin kaldırılarak, bilgisayar ile ESP32 arasındaki veri aktarımının Bluetooth veya Wi-Fi üzerinden kablosuz sağlanması.
 
 ## Kurulum ve Çalıştırma Adımları
